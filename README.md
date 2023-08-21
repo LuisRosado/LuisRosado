@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="![1](https://github.com/LuisRosado/LuisRosado/assets/140114139/1d45805c-e1bd-4c70-9119-b254dfe8c6ca)
-" alt="Luis Angel" width="200px">
+    <img src="ruta-a-tu-imagen" alt="Tu Nombre" width="200px">
 </p>
+
 
 <h1 align="center">¡Hola, soy Luis! 👋</h1>
 
