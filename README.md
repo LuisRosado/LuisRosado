@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[ruta-a-tu-imagen](https://github.com/LuisRosado/LuisRosado/blob/main/1.jpeg?raw=true)" alt="Tu Nombre" width="200px">
+    <img src="https://github.com/LuisRosado/LuisRosado/blob/main/1.jpeg?raw=true" alt="Luis" width="200px">
 </p>
 
 
