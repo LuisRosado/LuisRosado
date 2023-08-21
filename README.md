@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="ruta-a-tu-imagen-de-perfil.png" alt="Tu Nombre" width="200px">
+    <img src="![1](https://github.com/LuisRosado/LuisRosado/assets/140114139/1d45805c-e1bd-4c70-9119-b254dfe8c6ca)
+" alt="Luis Angel" width="200px">
 </p>
 
 <h1 align="center">¡Hola, soy Luis! 👋</h1>
@@ -10,7 +11,7 @@
 
 ## 🎓 Sobre Mí
 
-Estoy a punto de completar mi licenciatura en Ingeniería en Computación con un buen historial académico. Mi amor por la tecnología y la resolución de problemas me han llevado a explorar el desarrollo de tecnologias de la informacion.
+Soy de Guadalajara,Jalisco,Mexico y estoy a punto de completar mi licenciatura en Ingeniería en Computación con un buen historial académico. Mi amor por la tecnología y la resolución de problemas me han llevado a explorar el desarrollo de tecnologias de la informacion.
 
 ## 📚 Enfoque Académico
 
