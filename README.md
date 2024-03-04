@@ -12,7 +12,7 @@ Soy de Guadalajara,Jalisco,Mexico y estoy a punto de completar mi licenciatura e
 
 ## 📚 Enfoque Académico
 
-Mi formación académica me ha brindado habilidades sólidas en Python, C/C++, Html5 y Java. Siempre busco aprender más y abrazar desafíos técnicos.
+Mi formación académica me ha brindado habilidades sólidas en Python, C/C++, Bases de datos y Desarollo web. Siempre busco aprender más y abrazar desafíos técnicos.
 
 ## 🌟 Próxima Aventura
 
