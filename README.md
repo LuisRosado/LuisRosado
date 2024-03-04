@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://github.com/LuisRosado/LuisRosado/blob/main/Imagen2.png?raw=true" alt="Luis" width="200px">
-</p>
 
 
 <h1 align="center">¡Hola, soy Luis! 👋</h1>
