@@ -71,7 +71,7 @@ Estoy emocionado por embarcarme en una carrera profesional en el mundo de la tec
 
 ## 📫 Contacto
 
-Me encantaría conectar contigo en [LinkedIn](https://www.linkedin.com/in/luis-angel-558680214) para discutir oportunidades y compartir conocimientos.
+Me encantaría conectar contigo en [LinkedIn](https://www.linkedin.com/in/luisrosado18/) para discutir oportunidades y compartir conocimientos.
 
 <div align="center">
   ¡Gracias por visitar mi perfil! Estoy ansioso por contribuir con mi pasión por la tecnología en el mundo laboral.
