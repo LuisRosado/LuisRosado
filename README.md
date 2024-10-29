@@ -14,7 +14,16 @@
 
 ## 🎓 About Me
 
-Originally from Guadalajara, Jalisco, Mexico, I have completed my Bachelor's degree in Computer Engineering, where I gained in-depth knowledge in programming and application development. My interest in information technology has led me to explore various areas, including artificial intelligence, web development, and data analysis.
+Originally from Guadalajara, Jalisco, Mexico, I have recently completed my Bachelor's degree in Computer Engineering. Throughout my academic journey, I developed a strong foundation in software development and problem-solving. My coursework covered various essential topics, including data structures, algorithms, databases, and web technologies, which provided me with the skills to tackle complex challenges.
+
+My passion for technology began at an early age, and I've spent countless hours honing my programming skills in languages such as Python, C/C++, and Java. I am particularly fascinated by back-end development, where I can create robust server-side applications and work with databases to build dynamic web solutions. 
+
+In addition to my academic background, I have been actively involved in personal projects that have allowed me to apply my knowledge in practical settings. Recently, I have explored artificial intelligence and cloud computing, implementing solutions using Google Cloud and Azure. These experiences have not only enhanced my technical abilities but also taught me the importance of collaboration and continuous learning in the tech industry.
+
+I thrive in environments that challenge my skills and push me to learn new technologies. I am always eager to expand my knowledge and stay updated with industry trends, making me an adaptable and resourceful developer. My goal is to leverage my education and passion for technology to contribute to innovative projects that make a positive impact on society.
+
+As I embark on my professional journey, I am excited to work with like-minded individuals and contribute to teams that prioritize creativity, collaboration, and cutting-edge technology. I look forward to the opportunities that lie ahead!
+
 
 <br>
 
