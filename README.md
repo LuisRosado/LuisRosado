@@ -39,6 +39,7 @@ Soy de Guadalajara, Jalisco, México, y estoy a punto de completar mi licenciatu
   <strong>Cloud Hosting:</strong>
   <br>
   <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
 <p align="center">
