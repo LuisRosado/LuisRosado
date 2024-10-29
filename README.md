@@ -16,6 +16,13 @@
 
 Soy de Guadalajara,Jalisco,Mexico y estoy a punto de completar mi licenciatura en Ingeniería en Computación con un buen historial académico. Mi amor por la tecnología y la resolución de problemas me han llevado a explorar el desarrollo de tecnologias de la informacion.
 
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
 ## 📚 Enfoque Académico
 
 Mi formación académica me ha brindado habilidades sólidas en Python, C/C++, Bases de datos y Desarollo web. Siempre busco aprender más y abrazar desafíos técnicos.
