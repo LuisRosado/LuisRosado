@@ -10,9 +10,10 @@
   I am a recent computer engineering graduate with a strong foundation in software development and a focus on emerging technologies. Passionate about learning and ready to tackle new challenges in the digital world.
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## 🎓 About Me
+
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 Originally from Guadalajara, Jalisco, Mexico, I have recently completed my Bachelor's degree in Computer Engineering. Throughout my academic journey, I developed a strong foundation in software development and problem-solving. My coursework covered various essential topics, including data structures, algorithms, databases, and web technologies, which provided me with the skills to tackle complex challenges.
 
