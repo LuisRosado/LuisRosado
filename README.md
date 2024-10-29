@@ -72,11 +72,6 @@ As I embark on my professional journey, I am excited to work with like-minded in
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
-<br>
-
------
-
-<br>
 
 ## 📚 Academic Focus
 
