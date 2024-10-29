@@ -23,7 +23,8 @@ Soy de Guadalajara,Jalisco,Mexico y estoy a punto de completar mi licenciatura e
 <p align="center">
 
 - **Languages**:
-<br>   
+<br>
+
     <span>
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
