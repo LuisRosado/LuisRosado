@@ -59,11 +59,7 @@ Soy de Guadalajara, Jalisco, México, y estoy a punto de completar mi licenciatu
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
-<br>
 
------
-
-<br>
 
 ## 📚 Enfoque Académico
 
