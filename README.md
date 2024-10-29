@@ -1,18 +1,20 @@
-<h1 align="center">¡Hola, soy Luis! 👋</h1>
+<h1 align="center">Hi, I'm Luis! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola+Mundo!;Desarrollador+Back-End+Autodidacta;Ingeniero+en+Computación;Entusiasta+del+Desarrollo;Aprendiz+Activo+en+Tecnologías;Apasionado+por+la+programación..&hearts;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;Self-taught+Back-End+Developer;Computer+Engineer;Tech+Enthusiast;Active+Learner+in+New+Technologies;Passionate+about+programming..&hearts;">
   </a>
 </p>
 
 <p align="center">
-  Soy un ingeniero en computación recién graduado, con una sólida base en desarrollo de software y un enfoque en las tecnologías emergentes. Apasionado por aprender y listo para enfrentar nuevos desafíos en el mundo digital.
+  I am a recent computer engineering graduate with a strong foundation in software development and a focus on emerging technologies. Passionate about learning and ready to tackle new challenges in the digital world.
 </p>
 
-## 🎓 Sobre Mí
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-Originario de Guadalajara, Jalisco, México, he completado mi licenciatura en Ingeniería en Computación, donde adquirí conocimientos profundos en programación y desarrollo de aplicaciones. Mi interés en el desarrollo de tecnologías de la información me ha llevado a explorar diversas áreas, incluyendo inteligencia artificial, desarrollo web y análisis de datos.
+## 🎓 About Me
+
+Originally from Guadalajara, Jalisco, Mexico, I have completed my Bachelor's degree in Computer Engineering, where I gained in-depth knowledge in programming and application development. My interest in information technology has led me to explore various areas, including artificial intelligence, web development, and data analysis.
 
 <br>
 
@@ -66,18 +68,18 @@ Originario de Guadalajara, Jalisco, México, he completado mi licenciatura en In
 
 <br>
 
-## 📚 Enfoque Académico
+## 📚 Academic Focus
 
-Mi formación me ha proporcionado habilidades sólidas en Python, C/C++, bases de datos y desarrollo web. Recientemente, he estado trabajando en proyectos que involucran inteligencia artificial y desarrollo de aplicaciones en la nube, lo que me ha permitido expandir mis conocimientos y habilidades.
+My education has provided me with strong skills in Python, C/C++, databases, and web development. Recently, I have been working on projects involving artificial intelligence and cloud application development, allowing me to expand my knowledge and skills.
 
-## 🌟 Próxima Aventura
+## 🌟 Next Adventure
 
-Estoy emocionado por comenzar mi carrera profesional en el campo de la tecnología, listo para asumir nuevos desafíos, colaborar en proyectos innovadores y aprender de cada experiencia.
+I am excited to start my professional career in technology, ready to take on new challenges, collaborate on innovative projects, and learn from every experience.
 
-## 📫 Contacto
+## 📫 Contact
 
-Me encantaría conectar contigo en [LinkedIn](https://www.linkedin.com/in/luis-angel-558680214) para discutir oportunidades y compartir conocimientos.
+I would love to connect with you on [LinkedIn](https://www.linkedin.com/in/luis-angel-558680214) to discuss opportunities and share knowledge.
 
 <div align="center">
-  ¡Gracias por visitar mi perfil! Estoy ansioso por aportar mi pasión por la tecnología al mundo laboral.
+  Thank you for visiting my profile! I look forward to contributing my passion for technology to the workforce.
 </div>
